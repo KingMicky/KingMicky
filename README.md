@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Onyedikachi0813@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wBzQvNF1tiyh3EgnT-WKtSFVAZzJnJMS/view?usp=drive_link](https://drive.google.com/file/d/1wBzQvNF1tiyh3EgnT-WKtSFVAZzJnJMS/view?usp=drive_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1wBzQvNF1tiyh3EgnT-WKtSFVAZzJnJMS/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
