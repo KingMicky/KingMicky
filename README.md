@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Okechukwu Onyedikachi Joshua</h1>
-<h3 align="center">🚀 Certified DevOps Engineer | Cloud Infrastructure | CI/CD | Kubernetes | AWS | Terraform | Python</h3>
+<h3 align="center">🚀 A Certified DevOps Engineer | Cloud Infrastructure | CI/CD | Kubernetes | AWS | Terraform | Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+automation+%26+performance;3%2B+years+in+DevOps+%26+Cloud+Engineering;Let%E2%80%99s+build+reliable+systems+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+automation+and+performance;3%2B+years+in+DevOps+and+Cloud+Engineering;Let%27s+build+reliable+systems+together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,6 +21,7 @@
 - 📧 **Email:** Onyedikachi0813@gmail.com  
 - 🔗 **Resume:** [View My Resume](https://drive.google.com/file/d/1wBzQvNF1tiyh3EgnT-WKtSFVAZzJnJMS/view?usp=drive_link)  
 - 💼 **LinkedIn:** [Okechukwu Onyedikachi Joshua](https://www.linkedin.com/in/onyedikachiokechukwu/)
+- 🛠️ **GitLab:** [KingMicky](https://gitlab.com/kingmicky)
 
 ---
 
