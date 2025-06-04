@@ -1,8 +1,11 @@
+<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
+  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+</a>
+
 <h1 align="center">Hi 👋, I'm Okechukwu Onyedikachi Joshua</h1>
 <h3 align="center">🚀 A Certified DevOps Engineer | Cloud Infrastructure | CI/CD | Kubernetes | AWS | Terraform | Python</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+automation+and+performance;3%2B+years+in+DevOps+and+Cloud+Engineering;Let%27s+build+reliable+systems+together!" alt="Typing SVG" />
 </p>
 
