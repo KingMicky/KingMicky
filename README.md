@@ -1,7 +1,3 @@
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
-</a>
-
 <h1 align="center">Hi 👋, I'm Okechukwu Onyedikachi Joshua</h1>
 <h3 align="center">🚀 A Certified DevOps Engineer | Cloud Infrastructure | CI/CD | Kubernetes | AWS | Terraform | Python</h3>
 
@@ -93,3 +89,7 @@
 
 ### ✍️ Quote I Live By
 > "Automation is good, so long as you know exactly where to put the machine." – *Eliyahu Goldratt*
+
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
