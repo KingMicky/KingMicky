@@ -2,8 +2,8 @@
 <h3 align="center">🚀 A Certified DevOps Engineer | Cloud Infrastructure | CI/CD | Kubernetes | AWS | Terraform | Python</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+automation+and+performance;3%2B+years+in+DevOps+and+Cloud+Engineering;Let%27s+build+reliable+systems+together!" alt="Typing SVG" />
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="DevOps Landscape" width="100%" />
 </p>
 
 ---
