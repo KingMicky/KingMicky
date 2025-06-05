@@ -28,52 +28,51 @@
 <h3 align="center">🧰 Tech Stack</h3>
 
 <div align="center">
-<!-- Languages -->
+  <!-- Languages -->
   <h3>Languages</h3>
-  <p><img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /><be></p>
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" /><br>
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /><br>
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /><br>
+  <p><img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></p>
+  <p><img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" /></p>
+  <p><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /></p>
+  <p><img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></p>
 
   <!-- DevOps Tools -->
   <h3>DevOps Tools</h3>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-%23007ACC.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" /><br>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /><br>
-  <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" /><br>
-  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /><br>
-  <img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" /><br>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br>
+  <p><img src="https://img.shields.io/badge/Azure%20DevOps-%23007ACC.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" /></p>
+  <p><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></p>
+  <p><img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" /></p>
+  <p><img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /></p>
+  <p><img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" /></p>
+  <p><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></p>
 
   <!-- Infrastructure & IaC -->
   <h3>Infrastructure & IaC</h3>
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /><br>
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /><br>
-  <img src="https://img.shields.io/badge/ARM%20Templates-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ARM Templates" /><br>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /><br>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /><br>
+  <p><img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /></p>
+  <p><img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></p>
+  <p><img src="https://img.shields.io/badge/ARM%20Templates-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ARM Templates" /></p>
+  <p><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></p>
+  <p><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></p>
+  <p><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></p>
 
   <!-- Monitoring & Observability -->
   <h3>Monitoring & Observability</h3>
-  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /><br>
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /><br>
-  <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Monitor" /><br>
-  <img src="https://img.shields.io/badge/Log%20Analytics-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Log Analytics" /><br>
+  <p><img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></p>
+  <p><img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></p>
+  <p><img src="https://img.shields.io/badge/Azure%20Monitor-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Monitor" /></p>
+  <p><img src="https://img.shields.io/badge/Log%20Analytics-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Log Analytics" /></p>
 
   <!-- Databases -->
   <h3>Databases</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br>
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /><br>
+  <p><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
+  <p><img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></p>
 
   <!-- Cloud Platforms -->
   <h3>Cloud Platforms</h3>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /><br>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /><br>
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" /><br>
-  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" /><br>
+  <p><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></p>
+  <p><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /></p>
+  <p><img src="https://img.shields.io/badge/Oracle%20Cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" /></p>
+  <p><img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" /></p>
+</div>
 
-</div>
-</div>
 
 ---
 
