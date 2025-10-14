@@ -19,7 +19,7 @@
 ### 📬 Reach Me At
 
 - 📧 **Email:** Onyedikachi0813@gmail.com  
-- 🔗 **Resume:** [View My Resume]([https://drive.google.com/file/d/1O64uquvYN4jvY_GQUWL99gZxcJo2o18K/view?usp=sharing](https://drive.google.com/file/d/1O64uquvYN4jvY_GQUWL99gZxcJo2o18K/view?usp=sharing))
+- 🔗 **Resume:** [View My Resume](https://drive.google.com/file/d/1O64uquvYN4jvY_GQUWL99gZxcJo2o18K/view?usp=sharing(https://drive.google.com/file/d/1O64uquvYN4jvY_GQUWL99gZxcJo2o18K/view?usp=sharing))
 - 💼 **LinkedIn:** [Okechukwu Onyedikachi Joshua](https://www.linkedin.com/in/onyedikachiokechukwu/)
 - 🛠️ **GitLab:** [KingMicky](https://gitlab.com/kingmicky)
 
