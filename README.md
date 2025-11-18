@@ -14,7 +14,5 @@ I enjoy solving infrastructure challenges
 I like experimenting with new cloud tools
 I’m always building or automating something
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kingmicky&show_icons=true&theme=tokyonight" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingmicky&theme=tokyonight" width="48%"/> </p>
 ✍️ Quote
 "Automation is good, so long as you know exactly where to put the machine." – Eliyahu Goldratt
