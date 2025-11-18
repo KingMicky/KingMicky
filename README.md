@@ -1,23 +1,20 @@
-<h1 align="center">Hi, I'm Okechukwu Onyedikachi Joshua</h1> <h3 align="center">DevOps Engineer | Cloud | CI/CD | Kubernetes | AWS | Terraform</h3>
-🚀 About Me
+Hey there!
+I’m Onyedikachi, a DevOps engineer based in Nigeria.
 
-DevOps Engineer with 3+ years experience.
+I build and automate cloud infrastructure, optimize systems, and make deployments fast, reliable, and scalable.
 
-Improved deployments by 30% and reduced costs by 25% through automation.
+Right now, I’m working on cloud-native architectures, Kubernetes workloads, and end-to-end CI/CD automation.
 
-Skilled in AWS, Kubernetes, Terraform, Docker, and Python.
+My main stack includes AWS, Kubernetes, Docker, Terraform, Ansible, GitHub Actions, Prometheus, Grafana, Python, and Linux.
 
-🧰 Tech Stack
+You can reach me at onyedikachi0813@gmail.com or explore my work in my respositories.
 
-Languages: Python • SQL • Go • Bash
-DevOps: GitHub Actions • GitLab CI • Jenkins • Azure DevOps
-IaC & Infra: Terraform • Ansible • Docker • Kubernetes • Linux
-Monitoring: Prometheus • Grafana • Azure Monitor
-Databases: PostgreSQL • Redis
-Cloud: AWS • Azure • OCI • GCP
+Fun Facts:
+I enjoy solving infrastructure challenges
+I like experimenting with new cloud tools
+I’m always building or automating something
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kingmicky&show_icons=true&theme=tokyonight" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingmicky&theme=tokyonight" width="48%"/> </p>
 ✍️ Quote
-
 "Automation is good, so long as you know exactly where to put the machine." – Eliyahu Goldratt
