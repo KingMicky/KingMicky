@@ -10,9 +10,9 @@ My main stack includes AWS, Kubernetes, Docker, Terraform, Ansible, GitHub Actio
 You can reach me at onyedikachi0813@gmail.com or explore my work in my respositories.
 
 Fun Facts:
-I enjoy solving infrastructure challenges
-I like experimenting with new cloud tools
-I’m always building or automating something
+* I enjoy solving infrastructure challenges
+* I like experimenting with new cloud tools
+* I’m always building or automating something
 
 ✍️ Quote
 "Automation is good, so long as you know exactly where to put the machine." – Eliyahu Goldratt
