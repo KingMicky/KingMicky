@@ -14,5 +14,4 @@ Fun Facts:
 * I like experimenting with new cloud tools
 * I’m always building or automating something
 
-✍️ Quote
 "Automation is good, so long as you know exactly where to put the machine." – Eliyahu Goldratt
